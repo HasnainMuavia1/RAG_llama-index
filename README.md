@@ -31,7 +31,7 @@ Install the required packages using pip:
 pip install streamlit llama-index-core llama-index-readers-file llama-index-llms-ollama llama-index-embeddings-huggingface
 ```
 
-## Acknowledgement
+## Acknowledgements
 
 - Ollama
 - llama-index
